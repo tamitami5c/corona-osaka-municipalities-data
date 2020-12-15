@@ -1,0 +1,1 @@
+# corona-osaka-municipalities-data
