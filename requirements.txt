@@ -1,0 +1,4 @@
+requests==2.24.0
+openpyxl==3.0.5
+beautifulsoup4== 4.9.3
+japanera==0.1.1
