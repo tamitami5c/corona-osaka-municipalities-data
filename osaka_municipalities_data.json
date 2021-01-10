@@ -1,181 +1,181 @@
 {
-    "date": "2021-01-08",
+    "date": "2021-01-09",
     "data": {
         "osaka": [
             {
                 "municipality": "大阪市",
-                "count": 253,
-                "total": 15238
+                "count": 240,
+                "total": 15477
             },
             {
                 "municipality": "堺市",
-                "count": 37,
-                "total": 2171
+                "count": 45,
+                "total": 2217
             },
             {
                 "municipality": "岸和田市",
-                "count": 9,
-                "total": 522
+                "count": 11,
+                "total": 533
             },
             {
                 "municipality": "豊中市",
-                "count": 24,
-                "total": 1056
+                "count": 26,
+                "total": 1082
             },
             {
                 "municipality": "池田市",
-                "count": 18,
-                "total": 323
+                "count": 6,
+                "total": 329
             },
             {
                 "municipality": "吹田市",
-                "count": 19,
-                "total": 1083
+                "count": 21,
+                "total": 1104
             },
             {
                 "municipality": "泉大津市",
-                "count": 3,
-                "total": 223
+                "count": 5,
+                "total": 228
             },
             {
                 "municipality": "高槻市",
-                "count": 21,
-                "total": 743
+                "count": 28,
+                "total": 771
             },
             {
                 "municipality": "貝塚市",
-                "count": 5,
-                "total": 232
+                "count": 1,
+                "total": 233
             },
             {
                 "municipality": "守口市",
-                "count": 9,
-                "total": 560
+                "count": 11,
+                "total": 571
             },
             {
                 "municipality": "枚方市",
-                "count": 27,
-                "total": 990
+                "count": 20,
+                "total": 1010
             },
             {
                 "municipality": "茨木市",
-                "count": 20,
-                "total": 766
+                "count": 13,
+                "total": 779
             },
             {
                 "municipality": "八尾市",
-                "count": 7,
-                "total": 902
+                "count": 16,
+                "total": 918
             },
             {
                 "municipality": "泉佐野市",
-                "count": 3,
-                "total": 212
+                "count": 6,
+                "total": 218
             },
             {
                 "municipality": "富田林市",
-                "count": 5,
-                "total": 227
+                "count": 2,
+                "total": 229
             },
             {
                 "municipality": "寝屋川市",
-                "count": 11,
-                "total": 792
+                "count": 17,
+                "total": 809
             },
             {
                 "municipality": "河内長野市",
-                "count": 6,
-                "total": 207
+                "count": 11,
+                "total": 218
             },
             {
                 "municipality": "松原市",
-                "count": 4,
-                "total": 435
+                "count": 6,
+                "total": 441
             },
             {
                 "municipality": "大東市",
-                "count": 11,
-                "total": 493
+                "count": 8,
+                "total": 501
             },
             {
                 "municipality": "和泉市",
-                "count": 11,
-                "total": 473
+                "count": 8,
+                "total": 481
             },
             {
                 "municipality": "箕面市",
-                "count": 12,
-                "total": 347
+                "count": 8,
+                "total": 355
             },
             {
                 "municipality": "柏原市",
-                "count": 8,
-                "total": 183
+                "count": 4,
+                "total": 187
             },
             {
                 "municipality": "羽曳野市",
-                "count": 2,
-                "total": 242
+                "count": 1,
+                "total": 243
             },
             {
                 "municipality": "門真市",
-                "count": 14,
-                "total": 469
+                "count": 10,
+                "total": 479
             },
             {
                 "municipality": "摂津市",
                 "count": 6,
-                "total": 231
+                "total": 237
             },
             {
                 "municipality": "高石市",
-                "count": 11,
-                "total": 210
+                "count": 6,
+                "total": 216
             },
             {
                 "municipality": "藤井寺市",
-                "count": 3,
-                "total": 149
+                "count": 5,
+                "total": 154
             },
             {
                 "municipality": "東大阪市",
-                "count": 52,
-                "total": 1976
+                "count": 75,
+                "total": 2051
             },
             {
                 "municipality": "泉南市",
-                "count": 6,
+                "count": 0,
                 "total": 135
             },
             {
                 "municipality": "四條畷市",
-                "count": 1,
-                "total": 155
+                "count": 4,
+                "total": 159
             },
             {
                 "municipality": "交野市",
-                "count": 1,
-                "total": 163
+                "count": 2,
+                "total": 165
             },
             {
                 "municipality": "大阪狭山市",
-                "count": 2,
-                "total": 135
+                "count": 3,
+                "total": 138
             },
             {
                 "municipality": "阪南市",
-                "count": 5,
+                "count": 0,
                 "total": 80
             },
             {
                 "municipality": "島本町",
-                "count": 1,
-                "total": 44
+                "count": 2,
+                "total": 46
             },
             {
                 "municipality": "豊能町",
                 "count": 1,
-                "total": 38
+                "total": 39
             },
             {
                 "municipality": "能勢町",
@@ -185,16 +185,16 @@
             {
                 "municipality": "忠岡町",
                 "count": 1,
-                "total": 29
+                "total": 30
             },
             {
                 "municipality": "熊取町",
-                "count": 3,
+                "count": 0,
                 "total": 91
             },
             {
                 "municipality": "田尻町",
-                "count": 1,
+                "count": 0,
                 "total": 17
             },
             {
@@ -219,16 +219,16 @@
             }
         ],
         "out_of_osaka": {
-            "count": 19,
-            "total": 714
+            "count": 18,
+            "total": 732
         },
         "investigating": {
-            "count": 2,
+            "count": 0,
             "total": 92
         },
         "total": {
-            "count": 654,
-            "total": 33273
+            "count": 647,
+            "total": 33920
         }
     }
 }
